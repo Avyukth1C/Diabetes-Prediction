@@ -12,7 +12,7 @@ Welcome to the Diabetes Prediction Project! This project focuses on developing a
 
 ## Installation
 To set up the Diabetes Prediction Project, follow these steps:
-1. Clone the repository: `git clone https://github.com/Avyukth1C/Diabetes-Prediction.git`
+1. Clone the repository: `git clone https://github.com/Avyukth1C/diabetes-prediction.git`
 2. Unzip the files.
 3. Import the .ipynb into Google Colab.
 4. Import the prediction and patient datasets into your Google drive.[Change the file paths in the code respectively]
