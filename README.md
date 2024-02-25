@@ -8,7 +8,7 @@ Welcome to the Diabetes Prediction Project! This project focuses on developing a
 - **Feature Selection**: Identify relevant features that contribute significantly to diabetes prediction.
 - **Model Development**: Train machine learning models using supervised learning algorithms such as logistic regression, decision trees, or neural networks.
 - **Model Evaluation**: Assess the performance of the trained models using appropriate evaluation metrics like accuracy, precision, recall, and F1-score.
-- **Prediction Interface**: Provide an interface for users to input their health data and obtain predictions on whether they have diabetes or not.
+- **Prediction Interface** [RandomForest_Diabetes_predictor]: Provide an function for users to input their health data and obtain predictions on whether they have diabetes or not.
 
 ## Installation
 To set up the Diabetes Prediction Project, follow these steps:
